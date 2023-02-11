@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+    "editor.fontsize": 18,
+    "terminal.intergrated.fontsize": 18,
+    "window.zoomlevel": 0.5,
+    "workbrench.colorTheme": "Atom One Dark",
+    "workbrench.iconsTheme": "vscode-icons",
+    }
+}
