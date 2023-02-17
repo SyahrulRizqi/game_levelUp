@@ -5,5 +5,9 @@
     "window.zoomlevel": 0.5,
     "workbrench.colorTheme": "Atom One Dark",
     "workbrench.iconsTheme": "vscode-icons",
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
