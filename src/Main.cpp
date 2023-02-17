@@ -1,13 +1,15 @@
 #include <iostream>
+#include <string>
+#include "hero.h"
+
 using namespace std;
 
-int main(){
-    system("cls");
+int main(int argc, char const *argv[])
+{
 
-    cout << "test" << endl;
-    cout << "test lagi" << endl;
-    cout << "Lagi dehh" << endl;
-    cout << "udah dehh :)" << endl;
-    cout << "iya deh" << endl;
+    Hero* hero1 = new Hero("Syahrul");
+    hero1->display();
+    hero1->expUp(20);
+    
     return 0;
 }
